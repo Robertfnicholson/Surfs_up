@@ -36,11 +36,11 @@ I developed two deliverables to complete the process:
 
 ### Key Differences in Weather Between June and December
 There are three key differences in the weather between June and December:
-•	June has higher temperatures than December, 3.9 degrees using the average and 4.0 degrees using 
+*	June has higher temperatures than December, 3.9 degrees using the average and 4.0 degrees using 
 	the median
-•	June has much higher minimum temperature than December, 8.0 degrees higher, but only 2.0 degrees 
+*	June has much higher minimum temperature than December, 8.0 degrees higher, but only 2.0 degrees 
 	higher for the maximum temperature.
-•	June has a lower standard deviation, 3.26, than December, 3.75. </p>
+*	June has a lower standard deviation, 3.26, than December, 3.75. </p>
 
 ## Summary
 The Oahu, HI weather analysis indicates that June has higher temperatures than December as measured 
