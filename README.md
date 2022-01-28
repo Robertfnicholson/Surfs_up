@@ -27,9 +27,11 @@ using PostgresSQL and pgAdmin. </p>
 I developed two deliverables to complete the process:
 
 * the June historical weather summary statistics (see image below) and 
-	![jun_temps.png](https://github.com/Robertfnicholson/Surfs_up/blob/c228	cec56070d5037b5910c96595961af4f07e87/jun_temps.png)
+
+	![jun_temps.png](https://github.com/Robertfnicholson/Surfs_up/blob/5cff673e2af7715b86debb5439489bc1aa661a70/jun_temps.png)
 
 * the December historical weather summary statistics (see image below).
+
 	![dec_temps.png](https://github.com/Robertfnicholson/Surfs_up/blob/c228cec56070d5037b5910c96595961af4f07e87/dec_temps.png) </p>
 
 ### Key Differences in Weather Between June and December
